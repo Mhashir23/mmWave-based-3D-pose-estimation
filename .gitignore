@@ -1,0 +1,7 @@
+train_feature_maps.npy
+train_labels.npy
+*.h5
+*.ckpt
+*.data-00000-of-00001
+*.index
+.DS_Store 
